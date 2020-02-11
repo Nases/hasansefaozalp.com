@@ -1,13 +1,12 @@
 {
   "name": "hasansefaozalp.com",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Hasan Sefa Ozalp",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "save": "git add -A && git commit -m 'Hello World' && git push -u origin master"
+    "save": "git add . && git commit -m '💖' && git push -u origin master"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Hasan Sefa Ozalp",
+  "license": "MIT"
 }
